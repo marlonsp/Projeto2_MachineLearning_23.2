@@ -15,6 +15,8 @@
 
 🔗 **Link para o conjunto de dados:** [Glaucoma Detection Dataset](https://www.kaggle.com/datasets/teamincribo/glaucoma-detection-dataset/)
 
+🎞️ **Link para a apresentação do projeto:** https://youtu.be/YIjZg6dttdI
+
 🤝 **Colaboradores:** 
 - [Arthur Cisotto](https://github.com/ArthurCisotto)
 - [Marlon Pereira](https://github.com/marlonsp)
